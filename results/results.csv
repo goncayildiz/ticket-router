@@ -1,0 +1,6 @@
+model,area,tau,in_scope_acc,oos_recall,score,argmax_acc_no_tau,team_acc,size_mb,lat_mean_ms,lat_median_ms,lat_p95_ms
+tfidf + LogReg,B,0.46,0.7991,0.918,0.8586,0.906,0.8178,39.4,0.4,0.4,0.4
+FFN (GloVe avg),A,0.86,0.7751,0.867,0.8211,0.8916,0.7924,0.9,0.1,0.1,0.1
+BERT-base (fp32),C,0.8,0.9349,0.899,0.9169,0.9624,0.9464,438.5,48.2,47.9,55.5
+DistilBERT student (fp32),D,0.9,0.8929,0.907,0.8999,0.9513,0.9007,268.3,28.9,27.8,42.1
+DistilBERT student (int8),D,0.82,0.9078,0.892,0.8999,0.9482,0.9191,138.8,9.4,9.4,9.7

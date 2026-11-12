@@ -1,0 +1,1 @@
+Apple M4 | macOS-15.0-arm64-arm-64bit-Mach-O | torch 2.15.0 | threads 4 | engine qnnpack

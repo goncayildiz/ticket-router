@@ -1,0 +1,8 @@
+{
+ "small_talk_rows": 450,
+ "correct": 45,
+ "wrong_intent": 0,
+ "no_match": 405,
+ "other_rows": 5050,
+ "false_triggers": 0
+}
