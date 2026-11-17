@@ -76,4 +76,4 @@ python src/evaluate.py            # test-set evaluation -> results/results.csv
 
 ## AI usage
 
-Claude (Anthropic) was used as a coding assistant for writing and debugging code and for explanations. All models were trained and all numbers were measured by me.
+Claude (Anthropic) was used as an assistant for writing and debugging code, explaining methods, and drafting this README and the presentation slides. I ran all training and evaluation myself, and all numbers were measured by me.
